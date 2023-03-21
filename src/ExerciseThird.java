@@ -12,12 +12,24 @@ public class ExerciseThird {
     //Get the income from the user in the console using the Scanner class.
     public static void main(String[] args) {
         Scanner inputReader = new Scanner(System.in);
-        double inCome = 85528;
+        double inCome;
         System.out.println("What is your year total income?");
         inCome = inputReader.nextDouble();
+
+
         if (inCome < 85528) {
             double personalIncomeTax = (inCome * 0.18) - 556.02;
             System.out.println("Your income Tax:" + personalIncomeTax);
+
+        } else if (inCome == 85528) {
+            double tax = 14839.02;
+            System.out.println("Your income Tax:" + tax);
+
+        } else if (inCome >85528) {
+            double x = (inCome-85528);
+            double taxoverlimit = (x * 0.32) + 14839.02;
+            System.out.println("Your income Tax:" + taxoverlimit);
+
         }
 
 
