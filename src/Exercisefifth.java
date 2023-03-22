@@ -12,11 +12,11 @@ public class Exercisefifth {
 
         Scanner inputReadr = new Scanner(System.in);
 
-        System.out.println("Please write one odd number:");
-        int givenoddNumber = inputReadr.nextInt();
+        System.out.println("Please write one number:");
+        int givenNumber = inputReadr.nextInt();
 
         int oddNumber;
-        for (oddNumber = 1; oddNumber <= givenoddNumber; oddNumber++) {
+        for (oddNumber = 1; oddNumber <= givenNumber; oddNumber++) {
             if (oddNumber % 2 !=0)
             {
                 System.out.println("Odd number is:" + oddNumber++);
