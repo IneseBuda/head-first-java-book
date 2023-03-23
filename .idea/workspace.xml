@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Exercise four without acceptable range">
-      <change afterPath="$PROJECT_DIR$/src/Exercisefifth.java" afterDir="false" />
+    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Exercise fifth - odd numbers, text added">
+      <change afterPath="$PROJECT_DIR$/src/ExerciseSixth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercisefifth">
+  <component name="RunManager" selected="Application.ExerciseSixth">
     <configuration name="ExerciseFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciseFirst" />
       <module name="knowledge-book-exercise" />
@@ -54,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciseSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseSecond" />
+    <configuration name="ExerciseSixth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseSixth" />
       <module name="knowledge-book-exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExerciseSixth" />
         <item itemvalue="Application.Exercisefifth" />
         <item itemvalue="Application.ExerciseFourth" />
         <item itemvalue="Application.ExerciseThird" />
         <item itemvalue="Application.ExerciseFirst" />
-        <item itemvalue="Application.ExerciseSecond" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679402026339</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exercise fifth - odd numbers">
+      <created>1679495990843</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679495990843</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Exercise fifth - odd numbers, text added">
+      <created>1679496063090</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679496063090</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +171,8 @@
     <MESSAGE value="Exercise with Tax calculation income&lt;85528" />
     <MESSAGE value="Exercise with Tax calculation income=&gt;85528.Done" />
     <MESSAGE value="Exercise four without acceptable range" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise four without acceptable range" />
+    <MESSAGE value="Exercise fifth - odd numbers" />
+    <MESSAGE value="Exercise fifth - odd numbers, text added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise fifth - odd numbers, text added" />
   </component>
 </project>
