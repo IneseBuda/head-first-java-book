@@ -19,13 +19,14 @@ public class ExerciseSixth {
         int numberOne = inputReader.nextInt();
         System.out.println("Please write second number larger then first given number:");
         int numberTwo = inputReader.nextInt();
-        int number=1;
+        int number;
         int summ;
         int summOfSequence;
 
 
-        for (number = 1; numberOne < numberTwo; numberOne++) {
+        for (number = 0; numberOne <= numberTwo; numberOne++) {
             summ=numberOne+number;
+
 
             //   int summOfSequence = summ+summ;
             System.out.println("Summ is:" + summ);

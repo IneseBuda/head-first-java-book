@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Exercise fifth - odd numbers, text added">
-      <change afterPath="$PROJECT_DIR$/src/ExerciseSixth.java" afterDir="false" />
+    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Exercise sixth - calculate summ without summ sequence">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerciseSixth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseSixth.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679496063090</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercise sixth - calculate summ without summ sequence">
+      <created>1679567471607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679567471607</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +180,7 @@
     <MESSAGE value="Exercise four without acceptable range" />
     <MESSAGE value="Exercise fifth - odd numbers" />
     <MESSAGE value="Exercise fifth - odd numbers, text added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise fifth - odd numbers, text added" />
+    <MESSAGE value="Exercise sixth - calculate summ without summ sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise sixth - calculate summ without summ sequence" />
   </component>
 </project>
