@@ -25,13 +25,13 @@ public class ExerciseSixth {
 
 
         for (number = 0; numberOne <= numberTwo; numberOne++) {
-            summ=numberOne+number;
-
-
-            //   int summOfSequence = summ+summ;
+            summ = numberOne + number;
             System.out.println("Summ is:" + summ);
-          //  summOfSequence = (numberOne + number) +summ;
-           // System.out.println("Summ of sequence is:" + summOfSequence);
+
+            summOfSequence = (summ*(summ + number))/2;
+
+            System.out.println("Summ of sequences is:" + summOfSequence);
+
 
             if (numberOne > numberTwo) {
                 System.out.println("Job completed!");
@@ -40,6 +40,7 @@ public class ExerciseSixth {
             }
 
         }
+
     }
 }
 
