@@ -19,28 +19,36 @@ public class ExerciseSixth {
         int numberOne = inputReader.nextInt();
         System.out.println("Please write second number larger then first given number:");
         int numberTwo = inputReader.nextInt();
-        int number;
-        int summ;
+       // int number = 1;
+        //int summ;
         int summOfSequence;
 
+        if (numberOne <= numberTwo)
+        {
+           // summ = numberOne + number;
 
-        for (number = 0; numberOne <= numberTwo; numberOne++) {
-            summ = numberOne + number;
-            System.out.println("Summ is:" + summ);
+          //  System.out.println("Summ is:" + summ);
 
-            summOfSequence = (summ*(summ + number))/2;
+            summOfSequence = (numberOne * (numberOne + numberTwo));
+
 
             System.out.println("Summ of sequences is:" + summOfSequence);
-
-
+        }
             if (numberOne > numberTwo) {
                 System.out.println("Job completed!");
-                break;
-
             }
-
         }
-
     }
-}
+
+
+
+
+
+
+
+
+
+
+
+
 

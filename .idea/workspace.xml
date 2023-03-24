@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Exercise sixth - add equal signe to compare">
+    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Got summ of sequence">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExerciseSixth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseSixth.java" afterDir="false" />
     </list>
@@ -164,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679567900625</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Got summ of sequence">
+      <created>1679579814528</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679579814528</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +196,7 @@
     <MESSAGE value="Exercise fifth - odd numbers, text added" />
     <MESSAGE value="Exercise sixth - calculate summ without summ sequence" />
     <MESSAGE value="Exercise sixth - add equal signe to compare" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise sixth - add equal signe to compare" />
+    <MESSAGE value="Got summ of sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Got summ of sequence" />
   </component>
 </project>
