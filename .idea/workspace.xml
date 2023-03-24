@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Got summ of sequence">
+    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Got summ of sequence, the real code">
+      <change afterPath="$PROJECT_DIR$/src/ExerciseSeventh.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseSixth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseSixth.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +39,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExerciseSixth">
-    <configuration name="ExerciseFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseFirst" />
+  <component name="RunManager" selected="Application.ExerciseSeventh">
+    <configuration name="ExerciseFourth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseFourth" />
       <module name="knowledge-book-exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciseFourth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseFourth" />
+    <configuration name="ExerciseSeventh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseSeventh" />
       <module name="knowledge-book-exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExerciseSeventh" />
         <item itemvalue="Application.ExerciseSixth" />
         <item itemvalue="Application.Exercisefifth" />
         <item itemvalue="Application.ExerciseFourth" />
         <item itemvalue="Application.ExerciseThird" />
-        <item itemvalue="Application.ExerciseFirst" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679579814528</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Got summ of sequence, the real code">
+      <created>1679647483774</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679647483774</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +204,7 @@
     <MESSAGE value="Exercise sixth - calculate summ without summ sequence" />
     <MESSAGE value="Exercise sixth - add equal signe to compare" />
     <MESSAGE value="Got summ of sequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Got summ of sequence" />
+    <MESSAGE value="Got summ of sequence, the real code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Got summ of sequence, the real code" />
   </component>
 </project>
