@@ -22,7 +22,7 @@ public class ExerciseEight {
            userNumber=inputReader.nextInt();
 
        }while(userNumber!=0);
-
+        System.out.println("Sum of given numbers:" + (userNumber*(1+userNumber)/2) );
       //  System.out.println("Your given number sum is:"+ sum);
 
 

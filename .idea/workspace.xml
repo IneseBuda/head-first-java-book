@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="got numbers from user till user get 0">
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
+    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="get done exercise 7 with power of the number 2">
+      <change afterPath="$PROJECT_DIR$/src/PhraseOMatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileIfloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bottlesExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExerciseEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseEight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseSeventh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseSeventh.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,23 +42,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExerciseSeventh">
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dog" />
-      <module name="knowledge-book-exercise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PhraseOMatic">
     <configuration name="ExerciseEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciseEight" />
-      <module name="knowledge-book-exercise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExerciseSeventh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseSeventh" />
       <module name="knowledge-book-exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,8 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
+    <configuration name="PhraseOMatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhraseOMatic" />
+      <module name="knowledge-book-exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileIfloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileIfloop" />
+      <module name="knowledge-book-exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bottlesExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bottlesExercise" />
       <module name="knowledge-book-exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,10 +80,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExerciseSeventh" />
+        <item itemvalue="Application.PhraseOMatic" />
+        <item itemvalue="Application.bottlesExercise" />
+        <item itemvalue="Application.WhileIfloop" />
         <item itemvalue="Application.ExerciseEight" />
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.ExerciseSixth" />
       </list>
     </recent_temporary>
@@ -195,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679921152504</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="get done exercise 7 with power of the number 2">
+      <created>1680430968531</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680430968531</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +231,7 @@
     <MESSAGE value="Got summ of sequence, the real code" />
     <MESSAGE value="got numbers till users number" />
     <MESSAGE value="got numbers from user till user get 0" />
-    <option name="LAST_COMMIT_MESSAGE" value="got numbers from user till user get 0" />
+    <MESSAGE value="get done exercise 7 with power of the number 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="get done exercise 7 with power of the number 2" />
   </component>
 </project>
