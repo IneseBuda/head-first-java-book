@@ -12,15 +12,21 @@ public class ExerciseEight {
 
      */
     public static void main(String[] args) {
-Scanner inputReader = new Scanner(System.in);
+        Scanner inputReader = new Scanner(System.in);
         System.out.println("Play game with me!");
-        int userNumber;
 
+       int userNumber, sum;
+      //  sum=userNumber*(1+userNumber)/2;
         do{
-            System.out.println("Please write the number from 1 to 50");
-            userNumber=inputReader.nextInt();
-        }while(userNumber!=0);
-        System.out.println("Your given nuber sum is:");
+           System.out.println("Please write the number from 1 to 50");
+           userNumber=inputReader.nextInt();
+
+       }while(userNumber!=0);
+
+      //  System.out.println("Your given number sum is:"+ sum);
+
+
+
     }
 }
 

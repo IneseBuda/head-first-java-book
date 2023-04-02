@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Got summ of sequence, the real code">
-      <change afterPath="$PROJECT_DIR$/src/ExerciseSeventh.java" afterDir="false" />
+    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="got numbers from user till user get 0">
+      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerciseEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseEight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerciseSeventh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseSeventh.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +43,15 @@
   }
 }</component>
   <component name="RunManager" selected="Application.ExerciseSeventh">
-    <configuration name="ExerciseFourth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseFourth" />
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dog" />
+      <module name="knowledge-book-exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseEight" />
       <module name="knowledge-book-exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,15 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciseThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseThird" />
-      <module name="knowledge-book-exercise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercisefifth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercisefifth" />
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
       <module name="knowledge-book-exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,10 +81,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ExerciseSeventh" />
+        <item itemvalue="Application.ExerciseEight" />
+        <item itemvalue="Application.WhileLoop" />
+        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.ExerciseSixth" />
-        <item itemvalue="Application.Exercisefifth" />
-        <item itemvalue="Application.ExerciseFourth" />
-        <item itemvalue="Application.ExerciseThird" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679647483774</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="got numbers till users number">
+      <created>1679666197010</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679666197010</updated>
+    </task>
+    <task id="LOCAL-00014" summary="got numbers from user till user get 0">
+      <created>1679921152504</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679921152504</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +222,8 @@
     <MESSAGE value="Exercise sixth - add equal signe to compare" />
     <MESSAGE value="Got summ of sequence" />
     <MESSAGE value="Got summ of sequence, the real code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Got summ of sequence, the real code" />
+    <MESSAGE value="got numbers till users number" />
+    <MESSAGE value="got numbers from user till user get 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="got numbers from user till user get 0" />
   </component>
 </project>
