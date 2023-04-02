@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="get done exercise 7 with power of the number 2">
-      <change afterPath="$PROJECT_DIR$/src/PhraseOMatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileIfloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bottlesExercise.java" afterDir="false" />
+    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="some example from book">
+      <change afterPath="$PROJECT_DIR$/src/Shuffle1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseEight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PhraseOMatic">
+  <component name="RunManager" selected="Application.Shuffle1">
     <configuration name="ExerciseEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciseEight" />
       <module name="knowledge-book-exercise" />
@@ -50,15 +47,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciseSixth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseSixth" />
+    <configuration name="PhraseOMatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhraseOMatic" />
       <module name="knowledge-book-exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhraseOMatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PhraseOMatic" />
+    <configuration name="Shuffle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shuffle1" />
       <module name="knowledge-book-exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shuffle1" />
         <item itemvalue="Application.PhraseOMatic" />
         <item itemvalue="Application.bottlesExercise" />
         <item itemvalue="Application.WhileIfloop" />
         <item itemvalue="Application.ExerciseEight" />
-        <item itemvalue="Application.ExerciseSixth" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680430968531</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="some example from book">
+      <created>1680453600849</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680453600849</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +236,7 @@
     <MESSAGE value="got numbers till users number" />
     <MESSAGE value="got numbers from user till user get 0" />
     <MESSAGE value="get done exercise 7 with power of the number 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="get done exercise 7 with power of the number 2" />
+    <MESSAGE value="some example from book" />
+    <option name="LAST_COMMIT_MESSAGE" value="some example from book" />
   </component>
 </project>
