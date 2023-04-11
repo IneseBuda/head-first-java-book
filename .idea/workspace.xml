@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="while if compiler">
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Test with while">
+      <change afterPath="$PROJECT_DIR$/src/PoolPuzzleOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.PoolPuzzleOne">
     <configuration name="Compiler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Compiler" />
       <module name="knowledge-book-exercise" />
@@ -49,6 +49,13 @@
     </configuration>
     <configuration name="PhraseOMatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PhraseOMatic" />
+      <module name="knowledge-book-exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoolPuzzleOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PoolPuzzleOne" />
       <module name="knowledge-book-exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,20 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bottlesExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bottlesExercise" />
-      <module name="knowledge-book-exercise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PoolPuzzleOne" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Compiler" />
         <item itemvalue="Application.Shuffle1" />
         <item itemvalue="Application.PhraseOMatic" />
-        <item itemvalue="Application.bottlesExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681244348725</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Test with while">
+      <created>1681246055051</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1681246055051</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +268,7 @@
     <MESSAGE value="while if scrampble" />
     <MESSAGE value="while if scrampble, correct answer" />
     <MESSAGE value="while if compiler" />
-    <option name="LAST_COMMIT_MESSAGE" value="while if compiler" />
+    <MESSAGE value="Test with while" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test with while" />
   </component>
 </project>
