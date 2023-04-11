@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="while if scrampble, correct answer">
-      <change afterPath="$PROJECT_DIR$/src/Compiler.java" afterDir="false" />
+    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="while if compiler">
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Compiler">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Compiler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Compiler" />
       <module name="knowledge-book-exercise" />
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileIfloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileIfloop" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="knowledge-book-exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Compiler" />
         <item itemvalue="Application.Shuffle1" />
         <item itemvalue="Application.PhraseOMatic" />
         <item itemvalue="Application.bottlesExercise" />
-        <item itemvalue="Application.WhileIfloop" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681243572412</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="while if compiler">
+      <created>1681244348725</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1681244348725</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +260,7 @@
     <MESSAGE value="some example from book" />
     <MESSAGE value="while if scrampble" />
     <MESSAGE value="while if scrampble, correct answer" />
-    <option name="LAST_COMMIT_MESSAGE" value="while if scrampble, correct answer" />
+    <MESSAGE value="while if compiler" />
+    <option name="LAST_COMMIT_MESSAGE" value="while if compiler" />
   </component>
 </project>
