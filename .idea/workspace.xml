@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Some object exercises">
-      <change afterPath="$PROJECT_DIR$/src/exerciseCompilerObjects/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciseCompilerObjects/BooksTestDrive.java" afterDir="false" />
+    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Book example">
+      <change afterPath="$PROJECT_DIR$/src/exerciseCompilerObjects/Hobbits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseCompilerObjects/TestArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BooksTestDrive">
+  <component name="RunManager" selected="Application.TestArrays">
     <configuration name="BooksTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exerciseCompilerObjects.BooksTestDrive" />
       <module name="knowledge-book-exercise" />
@@ -80,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EpisodeTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exerciseCompilerObjects.EpisodeTestDrive" />
+    <configuration name="Hobbits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciseCompilerObjects.Hobbits" />
       <module name="knowledge-book-exercise" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamingSongTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exerciseCompilerObjects.StreamingSongTestDrive" />
+    <configuration name="TestArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciseCompilerObjects.TestArrays" />
       <module name="knowledge-book-exercise" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestArrays" />
+        <item itemvalue="Application.Hobbits" />
         <item itemvalue="Application.BooksTestDrive" />
         <item itemvalue="Application.EchoTestDrive" />
         <item itemvalue="Application.DrumKitTestDrive" />
-        <item itemvalue="Application.EpisodeTestDrive" />
-        <item itemvalue="Application.StreamingSongTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681326504328</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Book example">
+      <created>1681408392399</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1681408392399</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +323,8 @@
     <MESSAGE value="Test with while" />
     <MESSAGE value="Wrong solution for puzzle" />
     <MESSAGE value="Some object exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some object exercises" />
+    <MESSAGE value="Book example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Book example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
