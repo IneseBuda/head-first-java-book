@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="Triangle example">
-      <change afterPath="$PROJECT_DIR$/src/exerciseCompilerObjects/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciseCompilerObjects/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciseCompilerObjects/XCopy.java" afterDir="false" />
+    <list default="true" id="54d3aa1a-f46b-4cd6-beb3-62363c3c346b" name="Changes" comment="clock example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -282,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681409159526</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="clock example">
+      <created>1682419700249</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1682419700249</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,7 +301,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
     <MESSAGE value="Exercise with if/else" />
     <MESSAGE value="Exercise with degree calculator" />
     <MESSAGE value="Exercise with Tax calculation income&lt;85528" />
@@ -322,7 +325,8 @@
     <MESSAGE value="Book example" />
     <MESSAGE value="Island example" />
     <MESSAGE value="Triangle example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Triangle example" />
+    <MESSAGE value="clock example" />
+    <option name="LAST_COMMIT_MESSAGE" value="clock example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
